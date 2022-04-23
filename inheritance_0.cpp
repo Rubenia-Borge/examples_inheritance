@@ -4,6 +4,8 @@
 * A derived class inherits the public class members of the base class
 * In this example, you see inheritance of public data members.*/
 
+/* In inheritance, a derived class inherits all the public data members of the base class.*/
+
 #include <iostream>  
 using namespace std;  
 class PayrollAccount {  
